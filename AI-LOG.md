@@ -12,4 +12,4 @@ Changed: Instead of using '(condition) ? valueIfTrue : valueIfFalse' for options
 ### 2026-10-07 cart.test.js
 Tool: Codex
 Asked for: Adding more test cases in cart.test.js
-Kept: All of the test cases that Codex generated because they check out all of the posibilities that I can think of
+Kept: All of the test cases that Codex generated because they check out all of the posibilities that I can think of 
